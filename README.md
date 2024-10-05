@@ -6,6 +6,6 @@ En este tutorial vamos a ver como configurar una red en KVM de manera avanzada, 
 Si quieres saber como instalar KVM en tu maquina puedes ver el siguiente repositorio : [Instalacion de KVM](https://github.com/AdrianCE94/Instalacion-KVM)
 
 <p align="center">
-    <img src="imgs/descarga.png" width="300">
+    <img src="imgs/logo.png" width="300">
 </p>
 
