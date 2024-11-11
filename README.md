@@ -3,13 +3,16 @@ Configuracion de redes en KVM - Tutorial Avanzado
 <p align="center">
     <img src="imgs/logo.png" width="300">
 </p>
-En este tutorial vamos a ver como configurar una red en KVM de manera avanzada, para ello vamos a utilizar una maquina debian12 virtualiza sobre virtual box y KVM instalado.
+En este tutorial vamos a ver como configurar una red en KVM de manera avanzada, para ello vamos a utilizar una maquina debian12 virtualizada sobre virtual box y KVM instalado.
 
 ---
 Si quieres saber como instalar KVM en tu maquina puedes ver el siguiente repositorio : [Instalacion de KVM](https://github.com/AdrianCE94/Instalacion-KVM)
 ---
 
 Si quieres utilizar la misma maquina virtual que yo puedes descargarla desde [aqui](https://drive.google.com/file/d/1sIQKebnwafYNS-PbIBlXLz3HqbJ7Tvp0/view?usp=sharing")
+
+Si la descargas, debes tene en cuenta que esta configurada con una red diferente, por lo tanto será necesario modificar el archivo `/etc/network/interfaces` y cambiar la red por la que tengas en tu maquina.
+
 ---
 ## Redes que podemos configurar en KVM
 
