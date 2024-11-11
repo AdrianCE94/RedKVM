@@ -10,6 +10,8 @@ Si quieres saber como instalar KVM en tu maquina puedes ver el siguiente reposit
 ---
 
 Si quieres utilizar la misma maquina virtual que yo puedes descargarla desde [aqui](https://drive.google.com/file/d/1sIQKebnwafYNS-PbIBlXLz3HqbJ7Tvp0/view?usp=sharing")
+---
+
 
 Si la descargas, debes tene en cuenta que esta configurada con una red diferente, por lo tanto será necesario modificar el archivo `/etc/network/interfaces` y cambiar la red por la que tengas en tu maquina.
 
