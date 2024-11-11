@@ -29,7 +29,7 @@ Recordar que un bridge/swich es un dispositivo de interconexion de redes.Libvirt
 
 - **virbr0** : Red NAT que se crea por defecto al instalar KVM, más conocida como la red default
 
-Esto se puede comprobar en el virt-manager donde veremos que el servidor DHCP esta activo(gracias al paquere dnsmasq-base).
+Esto se puede comprobar en el virt-manager donde veremos que el servidor DHCP esta activo(gracias al paquete dnsmasq-base).
 
 para mas información puedes consultar el fichero:
  `/usr/share/doc/qemu-kvm/README.Debian`
